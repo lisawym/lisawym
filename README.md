@@ -1,4 +1,14 @@
 ### Hi there 👋
+<div align="right"> 
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisawym/)
+
+</div>
+
+Greetings! I'm Lisa, a first-year master's student at Duke University in Interdisciplinary Data Science. My fervor lies in crafting data-driven innovations that bring about meaningful change in people's lives. I'm immersing myself in cutting-edge technologies through course projects and personal endeavors, honing my skills to make a lasting impact. Join me on this exhilarating journey of turning data into positive action! 🚀
+
+### 🔭 I’m currently working on ...
+
 
 <!--
 **lisawym/lisawym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
